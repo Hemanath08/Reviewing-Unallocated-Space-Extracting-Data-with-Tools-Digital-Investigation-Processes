@@ -36,6 +36,7 @@ strings disk.img | less
 
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
+
 ![image](https://github.com/user-attachments/assets/a5e14c5d-e384-467a-b2bc-bf0034489bf7)
 
 ![image](https://github.com/user-attachments/assets/472ce5a2-21b9-4fd9-90f6-776479044b3b)
